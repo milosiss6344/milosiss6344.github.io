@@ -1,0 +1,8 @@
+---
+layout: post
+title: "My weekly post 03"
+date: 2018-10-05
+---
+
+
+This is the third week's reflection that i upoad to my website! From the beginning of the class to now i feel confident in myself in creating a blog by myself and helping others when they need it. I also feel confident that if the teaher gives us a assigment to do to our websites i'll be able to do it without help of course in sometimes i might ask for help but the kind of help would be for checkings to see if am going on the right track. Of course every week we learn new things as a class and i personally learn new things too. Something my class learned this week is that more about creating computational artifacts. However, our large purpose is to connect a variety of computing concepts. Something i learned in this week's lessons is that HTML has different tags! did you know that? Also when you type in <p> you can change the heading and paragraph to whatever you want. Another thing i learned is that in the Circles of Evaluation the function goes on top and the values goes underneath. Also let's say the equation 2+3 the (+) is the veb which in other words is the function and the (3) is the noun also known as the value. A challange i faced in this week was when we were trying different HTML tags i had to write/observe what would happen when you would write different HTML tags down in the WeScheme website. Another challenge i had was when i had to pick a color for my website for the fonts to change it, when i was doing this i was so confused because i didn't know how to do it until the teacher explained it better and i understood it better so when we went back to the computers and continued on what we were working on i understood better what to do.
