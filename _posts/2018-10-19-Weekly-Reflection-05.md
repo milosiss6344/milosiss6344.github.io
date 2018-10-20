@@ -1,0 +1,9 @@
+---
+layout: post
+title: "My weekly post 05"
+date: 2018-10-19
+---
+
+
+In this weeks learning we learned how to create shapes in the website WeScheme which then helped us later on when creating our flags in the same websites. Before you can do your flag in the website you have to create it in white paper with coloring paper to add to your flag. After you do it on your paper then you can start creating it in the website WeScheme, to create a geometry figure in the website you had to write it down in the left side of the website and then click the button "rub". An example of what you sould write in the left side of the website is (circle 25 "solid" "blue") and then after you write something like that in the left side you click the button 
+'run". One challanged i had was that sometimes when i would click the button run and see it in the right side of the website it would show errors sometimes and when i would try to fix them it would show another error until i finally found the error and the right wasn't telling anything was wrong. Another challenge i faced was thinking about the format to write to create a star without asking the teacher for any help. But i finally learned the format i had to write to create the geometry figure which is (star 10 "solid" "red") or any color you want it to be. Another challenge i was facing was having to help my classmate who was sitting next to me while i was also trying to do my work. Somethings that helped me more in creating our flags in the website where the things that the teacher where telling the class during going back to our tables and what he was telling me when he would walk around the class looking at our computers. A question i was asking myself while doing thios project was how was is creating a flag in the website WeSchecme going to help us later on in the class?
