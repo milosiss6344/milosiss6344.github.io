@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My game image"
+title: "My Game Image"
 date: 2018-11-20
 ---
 
-![my game image](/images/download.png.png)
+![My Game Image](/images/download.png.png)
