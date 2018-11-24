@@ -5,4 +5,4 @@ date: 2018-11-20
 ---
 
 
-!(My game image) [/images/Game Screenshot.png]
+![my game image](/images/game screenshot.png)
