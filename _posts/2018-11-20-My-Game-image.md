@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Screenshot"
+title: "My game image"
 date: 2018-11-20
 ---
 
