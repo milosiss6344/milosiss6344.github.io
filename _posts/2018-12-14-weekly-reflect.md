@@ -31,3 +31,5 @@ date: 2018-12-14
 
 ;(put-image (rectangle width 50 "solid" "white" ) )  
 ```
+
+What we started doing this week was to start building our Flags in Wescheme. We had to use the numbers our flags our made up of in order to properly start programming 
