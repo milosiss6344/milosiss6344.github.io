@@ -32,4 +32,4 @@ date: 2018-12-14
 ;(put-image (rectangle width 50 "solid" "white" ) )  
 ```
 
-What we started doing this week was to start building our Flags in Wescheme. We had to use the numbers our flags our made up of in order to properly start programming and use those numbers and the system we wrote in class to perform the witdh and the height of the flags. we kept on wrting the numbers of the glag to perform at least the one or teo lines of the flag 
+What we started doing this week was to start building our Flags in Wescheme. We had to use the numbers our flags our made up of in order to properly start programming and use those numbers and the system we wrote in class to perform the witdh and the height of the flags. We kept on writing the numbers of the glag to perform at least the one or two lines of the flag. Next week we'll start upgrading our fags more in Wescheme. Some questions that were being asked in this week learning class were how are we going to convert the portions of the flag into smaller numbers because some of the portios of the flag were too big and had to be reduce to not be that big. 
