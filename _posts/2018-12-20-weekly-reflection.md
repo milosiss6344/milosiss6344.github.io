@@ -4,14 +4,12 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Norway by Milosis Sepulveda
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+Norway is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. Oslo, the capital, is a city of green spaces and museums. Norway is also known for fishing, hiking, and skiing, notably at Lillehammer's Olypic Resort.
+A grade i expect out of this a Practioner because i folowed each and every instructions in order to reach this step i also deserve a Practioner because i helped my classmates when they needed help in this project.
 
 ## Current output
 
