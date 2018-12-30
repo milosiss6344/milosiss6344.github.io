@@ -46,9 +46,6 @@ Some questions i still had were at first how can any number we put is going to c
 ```
 
 * * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
  
 The code i posted is a little part of my starting to be flag. As you can see in each line i have "define" first so what i did for each line was i took the portion of the flag and covert those numbers in to even numbers so like that it fit each shape. For example if rectangles in the flag were 200 i would define each rectangle with 200 and so and so on.
 My code section fit in to all because at the end each shape was on top of each other and was slowly forming the falg i had which was Norway.
