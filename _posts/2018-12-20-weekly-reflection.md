@@ -13,10 +13,8 @@ A grade i expect out of this a Practioner because i folowed each and every instr
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
-
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/images/final-flag.png.png)
 * * *
 
 ## Describe your process.
